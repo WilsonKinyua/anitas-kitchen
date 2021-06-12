@@ -9,17 +9,18 @@ Week 2 Independent Project | Anitas Kitchen at Moringa School. Its a site where 
 * Github
 ## Technologies Used
  The following languages have been used on this project:
- * HTML and CSS
+ * HTML
+ * CSS
 
 ## Setup/Installation Requirements
 
 * Live link to view the project <a href="https://wilsonkinyua.github.io/anitas-kitchen/">View Anitas Kitchen</a>
 ## Some Screenshots
-<img src="./images/1.png" alt="screenshot" />
-<img src="./images/2.png" alt="screenshot" />
-<img src="./images/3.png" alt="screenshot" />
-<img src="./images/4.png" alt="screenshot" />
-<img src="./images/5.png" alt="screenshot" />
+<img src="./img/screenshots/1.png" alt="screenshot" />
+<img src="./img/screenshots/2.png" alt="screenshot" />
+<img src="./img/screenshots/3.png" alt="screenshot" />
+<img src="./img/screenshots/4.png" alt="screenshot" />
+<img src="./img/screenshots/5.png" alt="screenshot" />
 
 ## Known Bugs
  So far so good there are no bugs related to this project 😎
