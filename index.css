@@ -40,21 +40,50 @@ body {
     height: 170px; 
     padding-top: 0;
     margin-top: 0;
+    padding-bottom: 20px !important;
+}
+#happy_party {
+    width: 31%;
+}
+#breakfast, #lunch, #dinner {
+    width: 23%;
 }
 
-#happy_party, #breakfast, #lunch, #dinner {
-    width: 25%;
+#breakfast, #lunch, #dinner {
+    color: white;
+    font-style: italic;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: fit-content;
+    padding: 66px;
+    color: white;
+    text-align: center;
+    font-weight: 500;
 }
 
 #happy {
     background-color: lightgray;
-    padding: 20px;
+    padding: 16px;
     text-align: center;
 }
 
 #party {
     background-color: red;
     color: white;
-    padding: 20px;
+    padding: 16px;
     text-align: center;
+}
+
+#breakfast {
+    background-image: url('./img/foodtop/breakfast.jpg');
+}
+
+#lunch {
+    background-image: url('./img/foodtop/lunch.jpg');
+    opacity: 0.5;
+}
+
+#dinner {
+    background-image: url('./img/foodtop/dinner.jpg');
 }
