@@ -21,7 +21,7 @@ body {
 
 .menu {
     text-align: center;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .menu h2 {
@@ -32,4 +32,29 @@ body {
 
 .home span {
     font-weight: bold;
+}
+
+.service {
+    display: flex;
+    flex-direction: row;
+    height: 170px; 
+    padding-top: 0;
+    margin-top: 0;
+}
+
+#happy_party, #breakfast, #lunch, #dinner {
+    width: 25%;
+}
+
+#happy {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+}
+
+#party {
+    background-color: red;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
