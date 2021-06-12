@@ -9,6 +9,16 @@ body {
   padding: 0;
 }
 
+.outline {
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    background-color: transparent;
+    border: solid 1px #f15a29;
+    color: #f15a29;
+  }
+
+
 .home {
   background-image: url("./img/bg/2.jpg");
   background-repeat: no-repeat;
@@ -92,6 +102,7 @@ body {
   background-image: url("./img/foodtop/dinner.jpg");
 }
 
+/* food section */
 .food {
   margin-top: 50px;
   padding: 60px;
@@ -130,19 +141,11 @@ body {
   line-height: 20px;
 }
 
-.outline {
-  padding: 10px;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  background-color: transparent;
-  border: solid 1px #f15a29;
-  color: #f15a29;
-}
-
 #btn {
   margin-top: 230px;
 }
 
+    /* Drink styles */
 .drink {
   margin-top: 10px;
   padding: 0px 20px 20px 20px;
