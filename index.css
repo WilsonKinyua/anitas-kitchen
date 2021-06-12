@@ -1,0 +1,35 @@
+/* 
+    author: wilson kinyua
+    year: Jun 12 2021
+
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.home {
+    background-image: url('./img/bg/2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family:serif;
+    height: 600px;
+}
+
+.menu {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.menu h2 {
+    font-weight: 100;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+.home span {
+    font-weight: bold;
+}
