@@ -124,3 +124,16 @@ body {
     font-size: small;
     line-height: 20px;
 }
+
+.outline {
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    background-color: transparent;
+    border: solid 1px #F15A29;
+    color: #F15A29;
+}
+
+#btn {
+   margin-top: 230px;
+}
