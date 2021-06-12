@@ -5,179 +5,182 @@
 */
 
 body {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .home {
-    background-image: url('./img/bg/2.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    color: white;
-    font-family:serif;
-    height: 600px;
+  background-image: url("./img/bg/2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: serif;
+  height: 600px;
 }
 
 .menu {
-    text-align: center;
-    padding-top: 50px;
+  text-align: center;
+  padding-top: 50px;
 }
 
 .menu h2 {
-    font-weight: 100;
-    font-size: 40px;
-    text-transform: capitalize;
+  font-weight: 100;
+  font-size: 40px;
+  text-transform: capitalize;
 }
 
 .home span {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .service {
-    display: flex;
-    flex-direction: row;
-    height: 170px; 
-    padding-top: 0;
-    margin-top: 0;
-    padding-bottom: 20px !important;
+  display: flex;
+  flex-direction: row;
+  height: 170px;
+  padding-top: 0;
+  margin-top: 0;
+  padding-bottom: 20px !important;
 }
 #happy_party {
-    width: 31%;
+  width: 31%;
 }
-#breakfast, #lunch, #dinner {
-    width: 23%;
+#breakfast,
+#lunch,
+#dinner {
+  width: 23%;
 }
 
-#breakfast, #lunch, #dinner {
-    color: white;
-    font-style: italic;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: fit-content;
-    padding: 66px;
-    color: white;
-    text-align: center;
-    font-weight: 500;
+#breakfast,
+#lunch,
+#dinner {
+  color: white;
+  font-style: italic;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: fit-content;
+  padding: 66px;
+  color: white;
+  text-align: center;
+  font-weight: 500;
 }
 
 #happy {
-    background-color: lightgray;
-    padding: 16px;
-    text-align: center;
+  background-color: lightgray;
+  padding: 16px;
+  text-align: center;
 }
 
 #party {
-    background-color: #F15A29;
-    color: white;
-    padding: 16px;
-    text-align: center;
+  background-color: #f15a29;
+  color: white;
+  padding: 16px;
+  text-align: center;
 }
 
 #breakfast {
-    background-image: url('./img/foodtop/breakfast.jpg');
+  background-image: url("./img/foodtop/breakfast.jpg");
 }
 
 #lunch {
-    background-image: url('./img/foodtop/lunch.jpg');
-    opacity: 0.5;
+  background-image: url("./img/foodtop/lunch.jpg");
+  opacity: 0.5;
 }
 
 #dinner {
-    background-image: url('./img/foodtop/dinner.jpg');
+  background-image: url("./img/foodtop/dinner.jpg");
 }
 
-.food{
-    margin-top: 50px;
-    padding: 60px;
-    display: flex;
+.food {
+  margin-top: 50px;
+  padding: 60px;
+  display: flex;
 }
 
 .img_block {
-    border: 15px solid whitesmoke;
-    border-radius: 2px;
-    box-shadow: 0px 0px 6px grey;
-    font-size: 0;
-    margin-left: 80px;
-    width: 50%;
+  border: 15px solid whitesmoke;
+  border-radius: 2px;
+  box-shadow: 0px 0px 6px grey;
+  font-size: 0;
+  margin-left: 80px;
+  width: 50%;
 }
 
 .text_block {
-    margin-left: 100px;
+  margin-left: 100px;
 }
 
-.text_block h1{
-    font-weight: bolder;
-    color: rgb(80, 77, 77);
+.text_block h1 {
+  font-weight: bolder;
+  color: rgb(80, 77, 77);
 }
 
-.text_block h4{
-    font-weight: 700;
-    color: rgb(80, 77, 77);
+.text_block h4 {
+  font-weight: 700;
+  color: rgb(80, 77, 77);
 }
 
 .text_block p {
-    float: left;
-    width: 60%;
-    font-weight: 100;
-    font-family: 'Quicksand', sans-serif;
-    font-size: small;
-    line-height: 20px;
+  float: left;
+  width: 60%;
+  font-weight: 100;
+  font-family: "Quicksand", sans-serif;
+  font-size: small;
+  line-height: 20px;
 }
 
 .outline {
-    padding: 10px;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    background-color: transparent;
-    border: solid 1px #F15A29;
-    color: #F15A29;
+  padding: 10px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  background-color: transparent;
+  border: solid 1px #f15a29;
+  color: #f15a29;
 }
 
 #btn {
-   margin-top: 230px;
+  margin-top: 230px;
 }
 
 .drink {
-    margin-top: 10px;
-    padding: 0px 20px 20px 20px;
-    display: flex;
+  margin-top: 10px;
+  padding: 0px 20px 20px 20px;
+  display: flex;
 }
 
 .drink_text_block {
-    width: 50%;
-    text-align: right;
+  width: 50%;
+  text-align: right;
 }
 
 .drink_text_block p {
-    margin-left: 260px;
-    font-weight: 100;
-    font-family: 'Quicksand', sans-serif;
-    font-size: small;
-    line-height: 20px;
+  margin-left: 260px;
+  font-weight: 100;
+  font-family: "Quicksand", sans-serif;
+  font-size: small;
+  line-height: 20px;
 }
 
-
-.drink_text_block h1{
-    font-weight: bolder;
-    color: rgb(80, 77, 77);
+.drink_text_block h1 {
+  font-weight: bolder;
+  color: rgb(80, 77, 77);
 }
 
-.drink_text_block h4{
-    font-weight: 700;
-    color: rgb(80, 77, 77);
+.drink_text_block h4 {
+  font-weight: 700;
+  color: rgb(80, 77, 77);
 }
 
 #btn2 {
-    margin-top: 30px;
- }
+  margin-top: 30px;
+}
 
- .img_block2 {
-    display: flex;
-    border: 15px solid whitesmoke;
-    border-radius: 2px;
-    box-shadow: 0px 0px 6px grey;
-    font-size: 0;
-    margin-left: 80px;
+.img_block2 {
+  display: flex;
+  border: 15px solid whitesmoke;
+  border-radius: 2px;
+  box-shadow: 0px 0px 6px grey;
+  font-size: 0;
+  margin-left: 80px;
 }
