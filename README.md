@@ -2,7 +2,7 @@
 #### Landing page of a restaurants website
 #### Created By Wilson Kinyua on 11-06-2021
 ## Description
-Week 2 Independent Project | Anitas Kitchen at Moringa School. Its a site where I give details about a Restaurants named Anitas Kitchen.
+Week 2 Independent Project | Anitas Kitchen at Moringa School. Its a site where I give details about a Restaurant named Anitas Kitchen.
 ## Setup/Installation Requirements
 * Git
 * Web-browser or your choice
